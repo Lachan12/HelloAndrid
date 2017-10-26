@@ -10,8 +10,12 @@
           <option name="url" value="https://KJ_Duncan@bitbucket.org/KJ_Duncan/ict311.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/MichaelLiuLin/ICT311assignment.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\kjd016\Documents\week6" />
+    <option name="cloneParentDir" value="C:\Users\L_L044\Desktop" />
   </component>
 </application>
